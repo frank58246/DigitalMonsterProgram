@@ -154,11 +154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\DigitalMonsterProgram\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "E:\\Projects\\DigitalMonsterProgram\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "E:\\Projects\\DigitalMonsterProgram\\KoshiroProgram\\KoshiroProgram\\KoshiroProgram.csproj",
+      "projectName": "KoshiroProgram",
+      "projectPath": "E:\\Projects\\DigitalMonsterProgram\\KoshiroProgram\\KoshiroProgram\\KoshiroProgram.csproj",
       "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\DigitalMonsterProgram\\ConsoleApp2\\obj\\",
+      "outputPath": "E:\\Projects\\DigitalMonsterProgram\\KoshiroProgram\\KoshiroProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",

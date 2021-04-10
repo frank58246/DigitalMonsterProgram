@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\DigitalMonsterProgram\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "E:\\Projects\\DigitalMonsterProgram\\KoshiroProgram\\KoshiroProgram\\KoshiroProgram.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\DigitalMonsterProgram\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "E:\\Projects\\DigitalMonsterProgram\\KoshiroProgram\\KoshiroProgram\\KoshiroProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\DigitalMonsterProgram\\ConsoleApp3\\ConsoleApp3.csproj",
-        "projectName": "ConsoleApp3",
-        "projectPath": "E:\\Projects\\DigitalMonsterProgram\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "E:\\Projects\\DigitalMonsterProgram\\KoshiroProgram\\KoshiroProgram\\KoshiroProgram.csproj",
+        "projectName": "KoshiroProgram",
+        "projectPath": "E:\\Projects\\DigitalMonsterProgram\\KoshiroProgram\\KoshiroProgram\\KoshiroProgram.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\DigitalMonsterProgram\\ConsoleApp3\\obj\\",
+        "outputPath": "E:\\Projects\\DigitalMonsterProgram\\KoshiroProgram\\KoshiroProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "System.Drawing.Common": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
