@@ -1,0 +1,13 @@
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\bin\Debug\netcoreapp3.1\DigitalMonsterProgram.exe
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\bin\Debug\netcoreapp3.1\DigitalMonsterProgram.deps.json
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\bin\Debug\netcoreapp3.1\DigitalMonsterProgram.runtimeconfig.json
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\bin\Debug\netcoreapp3.1\DigitalMonsterProgram.runtimeconfig.dev.json
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\bin\Debug\netcoreapp3.1\DigitalMonsterProgram.dll
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\bin\Debug\netcoreapp3.1\DigitalMonsterProgram.pdb
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\obj\Debug\netcoreapp3.1\DigitalMonsterProgram.csprojAssemblyReference.cache
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\obj\Debug\netcoreapp3.1\DigitalMonsterProgram.csproj.CoreCompileInputs.cache
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\obj\Debug\netcoreapp3.1\DigitalMonsterProgram.AssemblyInfoInputs.cache
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\obj\Debug\netcoreapp3.1\DigitalMonsterProgram.AssemblyInfo.cs
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\obj\Debug\netcoreapp3.1\DigitalMonsterProgram.dll
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\obj\Debug\netcoreapp3.1\DigitalMonsterProgram.pdb
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\obj\Debug\netcoreapp3.1\DigitalMonsterProgram.genruntimeconfig.cache

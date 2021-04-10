@@ -1,0 +1,10 @@
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\bin\Debug\KoshiroProgram.exe.config
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\bin\Debug\KoshiroProgram.exe
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\bin\Debug\KoshiroProgram.pdb
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\obj\Debug\KoshiroProgram.csprojAssemblyReference.cache
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\obj\Debug\KoshiroProgram.Form1.resources
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\obj\Debug\KoshiroProgram.Properties.Resources.resources
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\obj\Debug\KoshiroProgram.csproj.GenerateResource.cache
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\obj\Debug\KoshiroProgram.csproj.CoreCompileInputs.cache
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\obj\Debug\KoshiroProgram.exe
+D:\Project\DigitalMonsterProgram\DigitalMonsterProgram\KoshiroProgram\obj\Debug\KoshiroProgram.pdb
