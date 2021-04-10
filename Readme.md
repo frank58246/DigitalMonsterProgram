@@ -3,7 +3,9 @@
 ![光子郎的電腦](/Image/snap.png) <br/>
 C#版本<br/>
 ```
-         private static void Main(string[] args)
+        private static float s;
+
+        private static void Main(string[] args)
         {
             /* func sample. coast creation */
             while (s < 1 || s >= 2)
@@ -40,6 +42,7 @@ C#版本<br/>
             fractal(x2, x1, y2, y1, sp);
         }
 ```
+輸出
 ![輸出](/Image/coast.jpeg) <br/>
 
 

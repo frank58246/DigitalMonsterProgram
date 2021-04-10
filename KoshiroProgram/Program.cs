@@ -9,9 +9,9 @@ namespace KoshiroProgram
 {
     internal class Program
     {
-        private static float s;
-
         private static List<Line> lines = new List<Line>();
+
+        private static float s;
 
         private static void Main(string[] args)
         {
