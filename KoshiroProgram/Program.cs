@@ -15,10 +15,10 @@ namespace KoshiroProgram
 
         private static void Main(string[] args)
         {
+            /* func sample. coast creation */
             while (s < 1 || s >= 2)
             {
-                Console.WriteLine("ration 1 to 2");
-                s = float.Parse(Console.ReadLine());
+                input("ration 1 to 2", ref s);
             }
             s = (s - 1) / 10 + 1;
             s = (float)Math.Sqrt(s * (s - 1));
@@ -48,6 +48,18 @@ namespace KoshiroProgram
             sp = sp + 1;
             fractal(x0, x2, y0, y2, sp);
             fractal(x2, x1, y2, y1, sp);
+        }
+
+        /// <summary>
+        /// X-Basic提供的輸入變數方法，キーボードから入力されるデータを、指定したデータ型の変数へ代入します。
+        /// </summary>
+        /// <param name="text"></param>
+        /// <param name="variable"></param>
+        private static void input<T>(string text, ref T variable)
+        {
+            Console.WriteLine(text);
+            var input = Console.ReadLine();
+            variable = (T)Convert.ChangeType(input, typeof(T));
         }
 
         /// <summary>
