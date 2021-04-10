@@ -29,11 +29,7 @@ namespace KoshiroProgram
             saveAndOpenImage();
         }
 
-        private static void fractal(float x0,
-           float x1,
-           float y0,
-           float y1,
-           int sp)
+        private static void fractal(float x0, float x1, float y0, float y1, int sp)
         {
             float l, r, x2, y2;
             l = (float)Math.Sqrt(((x1 - x0) * (x1 - x0) + (y1 - y0) * (y1 - y0)));
