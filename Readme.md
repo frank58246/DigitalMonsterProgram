@@ -21,7 +21,7 @@ C#版本<br/>
             saveAndOpenImage();
         }
         
-         private static void fractal(float x0,
+        private static void fractal(float x0,
            float x1,
            float y0,
            float y1,
@@ -42,8 +42,8 @@ C#版本<br/>
             fractal(x2, x1, y2, y1, sp);
         }
 ```
-輸出
-![輸出](/Image/coast.jpeg) <br/>
+輸出<br/>
+![輸出](/Image/coast.jpeg) 
 
 
 ## 參考來源
